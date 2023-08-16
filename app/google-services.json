@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756980452762",
+    "project_id": "wastepicker-ae89d",
+    "storage_bucket": "wastepicker-ae89d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756980452762:android:0ec4cf4c7081d4933b3e23",
+        "android_client_info": {
+          "package_name": "com.example.wastepicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756980452762-c0k174ebqbpslm4fkds2uvhiatn58m15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnG5G2qz7R5DOCbpr9X5LFgb6i2Er_BX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756980452762-c0k174ebqbpslm4fkds2uvhiatn58m15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
